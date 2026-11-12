@@ -1,0 +1,44 @@
+# Python bytecode and local caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# Local environments, editor state and notebooks' temporary files
+.venv/
+venv/
+env/
+.env
+.env.*
+!.env.example
+.vscode/*
+!.vscode/extensions.json
+.idea/
+*.swp
+*.swo
+*~
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Temporary build, export and notebook execution output
+.cache/
+.tmp/
+tmp/
+build/
+dist/
+*.log
+
+# Credentials and private keys
+*.pem
+*.key
+*.p12
+*.pfx
+credentials.json
+secrets.json
+
+# IMPORTANT: Do NOT ignore research_artifacts/ or research_release_v1/ globally.
+# Student forks may intentionally track their own research results.

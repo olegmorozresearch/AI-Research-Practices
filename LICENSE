@@ -1,0 +1,45 @@
+AI-Research-Practices — Licensing
+=================================
+
+Copyright (c) 2026 Oleg V. Moroz
+
+This repository is made available under two licenses, depending on the type
+of material.
+
+1. Educational and methodological materials — CC BY 4.0
+----------------------------------------------------
+Unless otherwise indicated, the original educational and methodological
+materials in this repository — including instructional text, Markdown
+explanations, exercises, diagrams, figures, and document templates — are
+licensed under the Creative Commons Attribution 4.0 International License
+(CC BY 4.0).
+
+License: https://creativecommons.org/licenses/by/4.0/
+Full legal code: https://creativecommons.org/licenses/by/4.0/legalcode.en
+SPDX identifier: CC-BY-4.0
+
+When reusing these materials, provide appropriate attribution to
+Oleg V. Moroz, a link to the CC BY 4.0 license, and an indication of changes,
+if any, as required by that license.
+
+2. Source code — MIT License
+----------------------------
+Unless otherwise indicated, original source code in this repository,
+including Python code in Jupyter notebook code cells and other scripts,
+is licensed under the MIT License.
+
+See LICENSE-MIT for the full license text.
+SPDX identifier: MIT
+
+3. Jupyter notebooks (.ipynb)
+-----------------------------
+Jupyter notebooks contain both kinds of material:
+- Code cells: MIT License.
+- Markdown cells, teaching text, exercises, and original illustrations:
+  CC BY 4.0.
+
+4. Third-party materials
+------------------------
+Third-party libraries, datasets, quoted text, and other third-party content
+remain subject to their respective licenses and rights. This licensing
+notice does not override those terms.
